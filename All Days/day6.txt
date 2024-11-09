@@ -2,3 +2,9 @@ Today i learn about numpy and little bit practice in w3schools.
 day - 7 {
     today i also learn about numpy. and practice about it 
 }
+day - 8 {
+    today I read some statistics for machine learning from this link : https://www.geeksforgeeks.org/statistics-for-machine-learning/
+}
+day - 9 {
+    today also i read some statistics from geeksforgeeks from this link : https://www.geeksforgeeks.org/statistics-for-machine-learning/
+}
