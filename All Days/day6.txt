@@ -8,3 +8,6 @@ day - 8 {
 day - 9 {
     today also i read some statistics from geeksforgeeks from this link : https://www.geeksforgeeks.org/statistics-for-machine-learning/
 }
+day - 11 {
+    today i learn little bit about pandas from w3schools and practice in in there 
+}
