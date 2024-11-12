@@ -11,3 +11,6 @@ day - 9 {
 day - 11 {
     today i learn little bit about pandas from w3schools and practice in in there 
 }
+day - 12 {
+    statistics from geeksforgeeks
+}
