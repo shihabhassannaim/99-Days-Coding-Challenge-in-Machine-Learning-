@@ -17,3 +17,6 @@ day - 12 {
 day - 13 {
      today i learn how to processes the 3d image with python 
 }
+day - 14 {
+     today i didn't learn so muth things but i learn little bit of matplotlib 
+}
