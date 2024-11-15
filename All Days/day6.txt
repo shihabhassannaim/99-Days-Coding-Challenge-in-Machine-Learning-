@@ -20,3 +20,6 @@ day - 13 {
 day - 14 {
      today i didn't learn so muth things but i learn little bit of matplotlib 
 }
+dau - 15 {
+loading 
+}
