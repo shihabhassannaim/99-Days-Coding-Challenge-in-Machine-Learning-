@@ -23,7 +23,10 @@ day - 14 {
 dau - 15 {
 loading 
 }
+<<<<<<< HEAD
 day - 16 {
     https://colab.research.google.com/drive/1qLjCG_E-VVAiGr9F4w722qNZxtrvJ5Yn?usp=sharing
     here's my todays code.
 }
+=======
+>>>>>>> 54ae477b72013b01ac300b813341a15ff002255c
