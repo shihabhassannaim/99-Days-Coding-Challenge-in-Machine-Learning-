@@ -14,3 +14,16 @@ day - 11 {
 day - 12 {
     statistics from geeksforgeeks
 }
+day - 13 {
+     today i learn how to processes the 3d image with python 
+}
+day - 14 {
+     today i didn't learn so muth things but i learn little bit of matplotlib 
+}
+dau - 15 {
+loading 
+}
+day - 16 {
+    https://colab.research.google.com/drive/1qLjCG_E-VVAiGr9F4w722qNZxtrvJ5Yn?usp=sharing
+    here's my todays code.
+}
