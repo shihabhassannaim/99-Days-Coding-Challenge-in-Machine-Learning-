@@ -27,3 +27,6 @@ day - 16 {
     https://colab.research.google.com/drive/1qLjCG_E-VVAiGr9F4w722qNZxtrvJ5Yn?usp=sharing
     here's my todays code.
 }
+day - 17 {
+    today i learn something about pydicom and some related library which helpps us to processes dcm images
+}
