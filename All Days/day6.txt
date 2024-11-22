@@ -30,3 +30,6 @@ day - 16 {
 day - 17 {
     today i learn something about pydicom and some related library which helpps us to processes dcm images
 }
+day - 23 {
+    today i learn about some 
+}
