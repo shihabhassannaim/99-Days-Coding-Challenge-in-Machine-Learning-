@@ -33,3 +33,6 @@ day - 17 {
 day - 23 {
     today i learn about some 
 }
+day - 28 {
+    today i learn something abou car security system with ai 
+}
