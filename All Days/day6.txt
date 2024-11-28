@@ -36,3 +36,6 @@ day - 23 {
 day - 28 {
     today i learn something abou car security system with ai 
 }
+day - 29 {
+    today i work with something about can bus security
+}
