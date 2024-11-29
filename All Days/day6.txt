@@ -39,3 +39,6 @@ day - 28 {
 day - 29 {
     today i work with something about can bus security
 }
+day - 30 {
+    today i work something about ids with korean dataset
+}
