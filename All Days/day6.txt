@@ -42,3 +42,6 @@ day - 29 {
 day - 30 {
     today i work something about ids with korean dataset
 }
+day - 34 {
+     today i learn car security in ml
+}
