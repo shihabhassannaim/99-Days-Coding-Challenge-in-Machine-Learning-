@@ -51,3 +51,6 @@ day - 35 {
 day - 36 {
     today i am doing something about preprocessing in image in colab
 }
+day - 37 {
+    today i learn skimage related something
+}
