@@ -57,3 +57,6 @@ day - 37 {
 day 38 {
     today i learn something about face recocnization 
 }
+day 39 {
+    today i also learn something about face recocnization with python
+}
