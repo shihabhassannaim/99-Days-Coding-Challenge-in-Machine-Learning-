@@ -54,3 +54,6 @@ day - 36 {
 day - 37 {
     today i learn skimage related something
 }
+day 38 {
+    today i learn something about face recocnization 
+}
