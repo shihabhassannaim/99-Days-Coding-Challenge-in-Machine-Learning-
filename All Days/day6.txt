@@ -60,3 +60,9 @@ day 38 {
 day 39 {
     today i also learn something about face recocnization with python
 }
+day - 46 ( 
+    today i learn python module cv2 
+)
+day - 47 {
+    today i also learn cv2
+}
