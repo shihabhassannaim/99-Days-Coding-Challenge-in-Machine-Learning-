@@ -62,10 +62,13 @@ day 39 {
 }
 day - 46 ( 
     today i learn python module cv2 
-)
+)git 
 <<<<<<< HEAD
 day - 47 {
     today i also learn cv2
 }
 =======
 >>>>>>> 77b37a196a1b43da376f810a798eb2604c869f89
+day - 48 {
+    today i read some research paper 
+}
