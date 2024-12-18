@@ -72,3 +72,6 @@ day - 47 {
 day - 48 {
     today i read some research paper 
 }
+day - 49 {
+    today i also read some research paper for my own research
+}
