@@ -75,3 +75,12 @@ day - 48 {
 day - 49 {
     today i also read some research paper for my own research
 }
+day - 50 (
+    today i also read different types of research paper 
+)
+day - 51 {
+    read research paper 
+}
+day - 52 {
+    todayy i read something about fatch ;mathcer in python
+}
