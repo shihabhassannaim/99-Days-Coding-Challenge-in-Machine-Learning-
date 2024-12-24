@@ -84,4 +84,8 @@ day - 52 {
 day - 53 {
     todayy i work with face mathcer in python
 }
+<<<<<<< HEAD
 day 54 - today i work in previous project 
+=======
+day 53 - today i work in previous project 
+>>>>>>> 57c1a828a3e8090ff100b936d37ac96f411bec62
