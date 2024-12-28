@@ -94,3 +94,5 @@ day 56 today i learn something abour data preprocessing
 day 57 - today i learn something about anomaly detection paper 
 
 day 58 - today i write some code in google colab 
+
+day 59 - today i learn something about deep learning
